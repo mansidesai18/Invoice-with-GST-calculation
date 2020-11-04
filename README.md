@@ -1,1 +1,3 @@
 # Invoice-with-GST-calculation
+
+An Huge increase in Global Gross Domestic Product(GDP) has become a huge challenge to our old billing system and hence in sustaining a paperless Environment.so we can avoid writing bill manually.GST is characterized as the bigger backhanded expense structure intended to help and upgrade the financial development of a country.Our project aims to find a solution by E- Billing application which is using Java.In invoice making process there is lots of calculations of discount, taxes like GOODS AND SERVICE TAX (GST).Also there is a calculation errors in manually making invoice.So, for overcome this problem we created desktop application “INVOICE with GST CALCULATION”.
